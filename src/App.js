@@ -18,7 +18,12 @@ function App() {
         countryDescription='Suiza, es un país ubicado en el centro de Europa, rodeado por Alemania, Austria, Liechtenstein, Italia y Francia. Rodeada de montes nevados y atravesada por llanuras y valles, Suiza presenta una variedad de paisajes que deleitan a los viajeros'
         nameImage='Suecia' 
         />
-
+        <Paisaje
+        nameCountry='Grecia'
+        sloganCountry='El origen de la civilizacion'
+        countryDescription='La Descripción de Grecia suele preterir todos aquellos monumentos posteriores a la conquista romana, incluso, evidentemente, aquellos debidos a la munificencia de los emperadores, como Adriano.'
+        nameImage='Grecia'
+        />
       </div>
       
     </div>
