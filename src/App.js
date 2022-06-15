@@ -5,7 +5,10 @@ import Paisaje from './Components/Paisaje.js';
 function App() {
   return (
     <div className="App">
-      <Paisaje/>
+      <div className='main-container'>
+        <h1>Estas son algunas de las ciudades mas hermosas del mundo</h1>
+        <Paisaje/>
+      </div>
     </div>
   );
 }
